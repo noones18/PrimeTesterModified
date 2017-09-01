@@ -21,7 +21,8 @@ public class PrimeTester {
             {
                 return false;
             }
-            return true;
+
         }
+        return true;
     }
 }
